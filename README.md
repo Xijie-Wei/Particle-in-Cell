@@ -1,2 +1,3 @@
 # Particle-in-Cell
-New 2.5D particle in cell plasma simulation code
+
+This code is the new, well orgnized version of the previous particle in cell plasma simulation code
